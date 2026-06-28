@@ -1,6 +1,17 @@
-# 💫 About Me:
-💫 Hi 👋, I'm Mohammad Adhil<br>Full-Stack .NET Developer | AI-Integrated Applications | Open to Full-Time Software Engineering Roles<br><br>Email Me 👉 ✉️ adhilmohammad861@gmail.com For Collaboration, Projects, or Opportunities. 😊<br><br>🔭 I'm currently working on: NL2Data (natural language to SQL engine) + FleetMind AI (intelligent fleet document & analytics platform using ASP.NET Core, PostgreSQL, RAG pipelines, and GPT-4o)<br>🌱 I'm currently learning: Microsoft Azure (AZ-900 & AZ-204), advanced prompt engineering, and cloud-native .NET architecture<br>👯 I'm looking to collaborate on: Full-stack .NET or React projects, AI-integrated enterprise apps, RAG pipelines, and LLM API integrations<br>🤝 I'm looking for help with: Advanced RAG optimization, vector search fine-tuning, and scaling AI-powered .NET applications on Azure<br>💬 Ask me about: ASP.NET Core, OpenAI & Claude APIs, PostgreSQL with pgvector, Entity Framework Core, or turning business questions into working SQL using LLMs<br>📫 How to reach me: adhilmohammad861@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I built a self-healing SQL engine that catches its own query failures, appends the error back to the prompt, and corrects itself — hitting a 92% success rate on the first retry 😄
 
+# 💫 Hi 👋, I'm Mohammad Adhil
+**Full-Stack .NET Developer | AI-Integrated Applications | Open to Full-Time Software Engineering Roles**
+
+Email Me 👉 ✉️ **adhilmohammad861@gmail.com** For Collaboration, Projects, or Opportunities. 😊
+
+- 🔭 **I'm currently working on:** NL2Data (natural language to SQL engine) + FleetMind AI (intelligent fleet document & analytics platform using ASP.NET Core, PostgreSQL, RAG pipelines, and GPT-4o)
+- 🌱 **I'm currently learning:** Microsoft Azure (AZ-900 & AZ-204), advanced prompt engineering, and cloud-native .NET architecture
+- 👯 **I'm looking to collaborate on:** Full-stack .NET or React projects, AI-integrated enterprise apps, RAG pipelines, and LLM API integrations
+- 🤝 **I'm looking for help with:** Advanced RAG optimization, vector search fine-tuning, and scaling AI-powered .NET applications on Azure
+- 💬 **Ask me about:** ASP.NET Core, OpenAI & Claude APIs, PostgreSQL with pgvector, Entity Framework Core, or turning business questions into working SQL using LLMs
+- 📫 **How to reach me:** adhilmohammad861@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I built a self-healing SQL engine that catches its own query failures, appends the error back to the prompt, and corrects itself — hitting a 92% success rate on the first retry 😄
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adhilmohammad)
