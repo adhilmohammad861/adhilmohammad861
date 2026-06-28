@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 I'm currently working on<br><br>Building NL2Data (a natural language to SQL engine) and FleetMind AI — an intelligent fleet document & analytics platform using ASP.NET Core, PostgreSQL, RAG pipelines, and GPT-4o<br><br>👯 I'm looking to collaborate on<br><br>Full-stack .NET or React projects, AI-integrated enterprise applications, or anything involving RAG pipelines, LLM APIs, and real-world data problems<br><br>🤝 I'm looking for help with<br><br>Advanced RAG optimization techniques, vector search fine-tuning, and scaling AI-powered .NET applications on Azure<br><br>🌱 I'm currently learning<br><br>Microsoft Azure (AZ-900 & AZ-204), advanced prompt engineering, and deepening my skills in distributed systems and cloud-native .NET architecture<br><br>💬 Ask me about<br><br>ASP.NET Core, building AI-powered full-stack apps, integrating OpenAI & Claude APIs, PostgreSQL with pgvector, or how to go from a business question to a working SQL query using LLMs<br><br>⚡ Fun fact<br><br>I built a self-healing SQL engine that catches its own query failures, appends the error back to the prompt, and corrects itself — hitting a 92% success rate on the first retry
+Hi 👋, I'm Mohammad Adhil
+Full-Stack .NET Developer | AI-Integrated Applications | Open to Full-Time Software Engineering Roles
+📧 Email me at adhilmohammad861@gmail.com for collaboration, projects, or opportunities.
+
+🔭 I'm currently working on: NL2Data (natural language to SQL engine) + FleetMind AI (intelligent fleet document & analytics platform using ASP.NET Core, PostgreSQL, RAG pipelines, and GPT-4o)
+🌱 I'm currently learning: Microsoft Azure (AZ-900 & AZ-204), advanced prompt engineering, and cloud-native .NET architecture
+👯 I'm looking to collaborate on: Full-stack .NET or React projects, AI-integrated enterprise apps, RAG pipelines, and LLM API integrations
+🤝 I'm looking for help with: Advanced RAG optimization, vector search fine-tuning, and scaling AI-powered .NET apps on Azure
+💬 Ask me about: ASP.NET Core, OpenAI & Claude APIs, PostgreSQL with pgvector, Entity Framework, or turning business questions into working SQL with LLMs
+📫 How to reach me: adhilmohammad861@gmail.com
+⚡ Fun fact: I built a self-healing SQL engine that catches its own query failures, appends the error back to the prompt, and corrects itself — hitting a 92% success rate on the first retry
 
 
 ## 🌐 Socials:
